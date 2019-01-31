@@ -1,2 +1,0 @@
-# sectionA
-Created with CodeSandbox
